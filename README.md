@@ -2,7 +2,7 @@
 
 1. ## Introduction
 
-    The project is used to get all galleries' `gallery_id` and `gallery_token` of exhentai.org, then you can use them to get extra infos of any gallery.
+    The project is used to get all galleries' `gallery_id` and `gallery_token` of `exhentai.org`, then you can use them to get extra infos of any gallery.
 
 2. ## Download the result json file
 
@@ -10,7 +10,7 @@
 
 3. ## How to use the script
 
-    If you want to download the info by yourself or modify the code, you need to read the following guide.
+    If you want to download the infos by yourself or modify the code, you need to read the following guide.
 
    1. ### Config the cookies
 
