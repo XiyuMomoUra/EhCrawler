@@ -2,7 +2,7 @@
 
 1. ## Introduction
 
-    The project is used to get all galleries' gallery_id and gallery_token of exhentai.org, then you can use them to get extra infos of any gallery.
+    The project is used to get all galleries' `gallery_id` and `gallery_token` of exhentai.org, then you can use them to get extra infos of any gallery.
 
 2. ## Download the result json file
 
