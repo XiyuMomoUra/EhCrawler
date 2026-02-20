@@ -6,6 +6,8 @@
 
 2. ## Download the result json file
 
+    You can download the infos from [Release](https://github.com/XiyuMomoUra/EhCrawler/releases/latest).
+
 3. ## How to use the script
 
     If you want to download the info by yourself or modify the code, you need to read the following guide.
